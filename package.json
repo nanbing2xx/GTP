@@ -1,0 +1,17 @@
+{
+  "name": "gpt-chat-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",        // 本地开发，启动前端
+    "build": "vite build" // 构建前端，生成到 public 文件夹
+  },
+  "dependencies": {
+    "axios": "^1.2.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0",
+    "@vitejs/plugin-react": "^4.0.0"
+  }
+}
