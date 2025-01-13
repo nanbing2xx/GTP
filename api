@@ -1,0 +1,11 @@
+GTP
+├── api            # 放后端（Serverless Functions）代码
+│   └── chat.js
+├── public         # 静态资源文件夹
+├── src            # 放前端 React 源代码
+│   ├── App.jsx
+│   └── main.jsx
+├── package.json
+├── vercel.json
+├── .gitignore
+└── ...
